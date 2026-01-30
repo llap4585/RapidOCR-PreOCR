@@ -1,0 +1,3 @@
+# Core dependencies for RapidOCR-PreOCR
+opencv-python
+rapidocr_onnxruntime
