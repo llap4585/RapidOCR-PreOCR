@@ -70,6 +70,8 @@ En entornos médicos (ej. resultados de laboratorio, resúmenes clínicos), el O
 
 **Local Processing Only:** This tool performs all image enhancement operations locally on your machine. No medical reports, patient data, or sensitive information are uploaded to any external servers or cloud services. Your data remains under your control at all times.
 
+**仅限本地处理：**本工具的所有图像增强操作均在您的本地计算机上执行。不会将任何医疗报告、患者数据或敏感信息上传到任何外部服务器或云服务。您的数据始终由您掌控。
+
 ---
 
 ## 🛠️ Requirements
