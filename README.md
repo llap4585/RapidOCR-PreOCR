@@ -1,6 +1,6 @@
 # RapidOCR-PreOCR
 
-[English](#english) | [中文说明](#chinese)| [日本語（機械翻訳）](#japanese)
+[English](#english) | [中文](#chinese)| [日本語（機械翻訳）](#japanese)
 
 ---
 
