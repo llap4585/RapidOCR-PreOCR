@@ -16,6 +16,8 @@
 
 In medical scenarios (e.g., lab results, clinical summaries), OCR often fails due to thin fonts, low contrast, or uneven scanning quality. By integrating **CLAHE** (Contrast Limited Adaptive Histogram Equalization) and fine-tuned denoising, this tool strengthens the structural features of text. This ensures that RapidOCR can reliably extract every line of vital medical information where high precision is non-negotiable.
 
+Due to copyright and privacy constraints associated with real clinical documents and academic literature used in testing, sample images are not directly displayed in this project.
+
 ---
 
 <a name="chinese"></a>
@@ -23,6 +25,8 @@ In medical scenarios (e.g., lab results, clinical summaries), OCR often fails du
 **RapidOCR-PreOCR** 是一款专为优化 **医学报告扫描件** 识别效果而设计的图像预处理工具。它主要解决在特定场景下出现的漏行、断行等问题，显著提升文本识别的连续性与完整性。
 
 在处理医疗化验单、出院小结等扫描文档时，由于字体较细、对比度较低或光线不均，常规 OCR 往往会丢失关键行。本项目通过 **CLAHE**（限制对比度自适应直方图均衡化）与优化去噪算法，强化文字结构特征，确保 RapidOCR 能够稳健地捕获每一行医疗关键信息，极大地提高了数据提取的可靠性。
+
+由于测试所使用的真实临床文档与学术文献涉及版权与隐私问题，本项目未直接展示样例图像。
 
 ---
 
@@ -32,6 +36,8 @@ In medical scenarios (e.g., lab results, clinical summaries), OCR often fails du
 
 診断書や検査結果などの医療現場では、フォントの細さやコントラストの低さにより、通常の OCR では重要な行を見落とすことがあります。本プロジェクトでは **CLAHE** とノイズ除去を組み合わせることで、文字の構造的特徴を強化し、精度が求められる医療情報の確実な抽出を支援します。
 
+テストに使用した実際の臨床文書および学術文献は、著作権およびプライバシーの問題を含むため、本プロジェクトではサンプル画像を直接掲載していません。
+
 ---
 
 <a name="deutsch"></a>
@@ -39,6 +45,8 @@ In medical scenarios (e.g., lab results, clinical summaries), OCR often fails du
 **RapidOCR-PreOCR** ist ein Bildvorverarbeitungswerkzeug, das speziell für **gescannte medizinische Berichte** optimiert wurde. Es löst kritische Probleme wie das Überspringen von Zeilen und die Erkennung unterbrochener Linien in RapidOCR, wodurch die Textkontinuität und Datenintegrität erheblich verbessert werden.
 
 In medizinischen Szenarien (z. B. Laborergebnisse, klinische Zusammenfassungen) scheitert OCR oft an dünnen Schriftarten, geringem Kontrast oder ungleichmäßiger Scanqualität. Durch die Integration von **CLAHE** und fein abgestimmter Rauschunterdrückung stärkt dieses Tool die strukturellen Merkmale von Texten und gewährleistet eine präzise Extraktion wichtiger medizinischer Informationen.
+
+Aufgrund von urheberrechtlichen und datenschutzrechtlichen Einschränkungen bei den für Tests verwendeten realen klinischen Dokumenten und wissenschaftlichen Publikationen werden in diesem Projekt keine Beispielbilder direkt angezeigt.
 
 ---
 
@@ -48,6 +56,8 @@ In medizinischen Szenarien (z. B. Laborergebnisse, klinische Zusammenfassungen) 
 
 Dans les contextes médicaux (ex: résultats de laboratoire, comptes rendus cliniques), l'OCR échoue souvent en raison de polices fines, d'un faible contraste ou d'une qualité de numérisation inégale. En intégrant la technologie **CLAHE** et une réduction du bruit optimisée, cet outil renforce les caractéristiques structurelles du texte, garantissant une extraction fidèle des informations médicales vitales.
 
+En raison des contraintes liées aux droits d’auteur et à la confidentialité des documents cliniques réels et des publications académiques utilisés lors des tests, les images d’exemple ne sont pas présentées directement dans ce projet.
+
 ---
 
 <a name="espanol"></a>
@@ -56,6 +66,8 @@ Dans les contextes médicaux (ex: résultats de laboratoire, comptes rendus clin
 
 En entornos médicos (ej. resultados de laboratorio, resúmenes clínicos), el OCR suele fallar debido a fuentes delgadas, bajo contraste o calidad de escaneo desigual. Al integrar **CLAHE** y una reducción de ruido optimizada, esta herramienta fortalece las características estructurales del texto, garantizando una extracción fiel de información médica vital.
 
+Debido a las restricciones de derechos de autor y privacidad asociadas con los documentos clínicos reales y la literatura académica utilizados en las pruebas, este proyecto no muestra directamente imágenes de ejemplo.
+
 ---
 
 <a name="hindi"></a>
@@ -63,6 +75,8 @@ En entornos médicos (ej. resultados de laboratorio, resúmenes clínicos), el O
 **RapidOCR-PreOCR** एक छवि पूर्व-प्रसंस्करण (image preprocessing) उपकरण है जिसे विशेष रूप से **स्कैन की गई मेडिकल रिपोर्ट** के लिए अनुकूलित किया गया है। यह RapidOCR में लाइनों के छूटने और टूटे हुए अक्षरों की पहचान जैसी महत्वपूर्ण समस्याओं को हल करता है, जिससे टेक्स्ट की निरंतरता और डेटा की सटीकता में काफी सुधार होता है।
 
 चिकित्सा परिदृश्यों (जैसे लैब परिणाम, नैदानिक सारांश) में, पतले फोंट, कम कंट्रास्ट या खराब स्कैनिंग गुणवत्ता के कारण OCR अक्सर विफल हो जाता है। **CLAHE** और बेहतर डेंसिंग (denoising) को एकीकृत करके, यह उपकरण टेक्स्ट की संरचनात्मक विशेषताओं को मजबूत करता है, जिससे महत्वपूर्ण चिकित्सा जानकारी का सटीक निष्कर्षण सुनिश्चित होता है।
+
+परीक्षण में उपयोग किए गए वास्तविक नैदानिक दस्तावेज़ों और शैक्षणिक साहित्य में कॉपीराइट और गोपनीयता से संबंधित प्रतिबंध शामिल हैं, इसलिए इस परियोजना में नमूना छवियाँ सीधे प्रदर्शित नहीं की गई हैं।
 
 ---
 
