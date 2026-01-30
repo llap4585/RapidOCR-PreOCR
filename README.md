@@ -1,6 +1,9 @@
 # RapidOCR-PreOCR
 
-[English](#english) | [中文](#chinese) | [日本語（機械翻訳）](#japanese) | [Deutsch（Maschinelle Übersetzung）](#deutsch) | [Français（Traduction automatique）](#francais)
+[English](#english) | [中文](#chinese) 
+
+機械翻訳/Maschinelle Übersetzung/Traduction automatique/Traducción Automática：
+[日本語](#japanese) | [Deutsch](#deutsch) | [Français](#francais) | [Español](#espanol)
 
 ---
 
@@ -41,6 +44,14 @@ In medizinischen Szenarien (z. B. Laborergebnisse, klinische Zusammenfassungen) 
 **RapidOCR-PreOCR** est un outil de prétraitement d'image spécifiquement optimisé pour les **rapports médicaux numérisés**. Il résout des problèmes critiques tels que le saut de lignes et la reconnaissance de lignes brisées dans RapidOCR, améliorant considérablement la continuité du texte et l'intégrité des données.
 
 Dans les contextes médicaux (ex: résultats de laboratoire, comptes rendus cliniques), l'OCR échoue souvent en raison de polices fines, d'un faible contraste ou d'une qualité de numérisation inégale. En intégrant la technologie **CLAHE** et une réduction du bruit optimisée, cet outil renforce les caractéristiques structurelles du texte, garantissant une extraction fidèle des informations médicales vitales.
+
+---
+
+<a name="espanol"></a>
+## Español (Traducción Automática)
+**RapidOCR-PreOCR** es una herramienta de preprocesamiento de imágenes optimizada específicamente para **informes médicos escaneados**. Resuelve problemas críticos como el salto de líneas y el reconocimiento de líneas fragmentadas en RapidOCR, mejorando significativamente la continuidad del texto y la integridad de los datos.
+
+En entornos médicos (ej. resultados de laboratorio, resúmenes clínicos), el OCR suele fallar debido a fuentes delgadas, bajo contraste o calidad de escaneo desigual. Al integrar **CLAHE** y una reducción de ruido optimizada, esta herramienta fortalece las características estructurales del texto, garantizando una extracción fiel de información médica vital.
 
 ---
 ## 🛠️ Requirements
