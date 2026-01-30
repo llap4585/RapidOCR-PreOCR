@@ -114,7 +114,7 @@ This project builds upon the RapidOCR toolbox. If you use RapidOCR, please cite:
 If you use this project, please cite it as:
 
 @misc{llap4585,
-    title={RapidOCR-PreOCR: Preprocessing tool for improved RapidOCR text continuity},
+    title={{RapidOCR-PreOCR}: Preprocessing tool for improved RapidOCR text continuity},
     author={llap4585},
     howpublished = {\url{https://github.com/llap4585/RapidOCR-PreOCR}},
     year={2026}
