@@ -21,7 +21,7 @@ In medical scenarios (e.g., lab results, clinical summaries), OCR often fails du
 ---
 
 <a name="japanese"></a>
-## 日本語 (Machine Translation)
+## 日本語 (機械翻訳)
 **RapidOCR-PreOCR** は、**医療報告書の教細なスキャンデータ**に特化した画像前処理ツールです。RapidOCR で発生しやすい「行飛ばし」や「文字の断裂」といった課題を解決し、テキスト認識の連続性とデータ整合性を大幅に向上させます。
 
 診断書や検査結果などの医療現場では、フォントの細さやコントラストの低さにより、通常の OCR では重要な行を見落とすことがあります。本プロジェクトでは **CLAHE** とノイズ除去を組み合わせることで、文字の構造的特徴を強化し、精度が求められる医療情報の確実な抽出を支援します。
