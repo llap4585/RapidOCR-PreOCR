@@ -25,7 +25,7 @@ In medical scenarios (e.g., lab results, clinical summaries), OCR often fails du
 ```text
 opencv-python
 rapidocr_onnxruntime
-
+```
 ---
 
 ## References / Citation
