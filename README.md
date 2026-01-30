@@ -2,7 +2,7 @@
 
 [English](#english) | [中文](#chinese) 
 
-機械翻訳/Maschinelle Übersetzung/Traduction automatique/Traducción Automática
+機械翻訳 | Maschinelle Übersetzung | Traduction automatique | Traducción Automática |
 
 [日本語](#japanese) | [Deutsch](#deutsch) | [Français](#francais) | [Español](#espanol)
 
