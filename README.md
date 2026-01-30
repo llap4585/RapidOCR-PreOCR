@@ -65,6 +65,13 @@ En entornos médicos (ej. resultados de laboratorio, resúmenes clínicos), el O
 चिकित्सा परिदृश्यों (जैसे लैब परिणाम, नैदानिक सारांश) में, पतले फोंट, कम कंट्रास्ट या खराब स्कैनिंग गुणवत्ता के कारण OCR अक्सर विफल हो जाता है। **CLAHE** और बेहतर डेंसिंग (denoising) को एकीकृत करके, यह उपकरण टेक्स्ट की संरचनात्मक विशेषताओं को मजबूत करता है, जिससे महत्वपूर्ण चिकित्सा जानकारी का सटीक निष्कर्षण सुनिश्चित होता है।
 
 ---
+
+## 🛡️ Privacy & Security
+
+**Local Processing Only:** This tool performs all image enhancement operations locally on your machine. No medical reports, patient data, or sensitive information are uploaded to any external servers or cloud services. Your data remains under your control at all times.
+
+---
+
 ## 🛠️ Requirements
 
 ```text
@@ -73,7 +80,7 @@ rapidocr_onnxruntime
 ```
 ---
 
-## References / Citation
+## 💪References / Citation
 ```markdown
 This project builds upon the RapidOCR toolbox. If you use RapidOCR, please cite:
 
