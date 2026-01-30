@@ -2,9 +2,9 @@
 
 [English](#english) | [中文](#chinese) 
 
-機械翻訳 | Maschinelle Übersetzung | Traduction automatique | Traducción Automática
+機械翻訳 | Maschinelle Übersetzung | Traduction automatique | Traducción Automática | मशीनी अनुवाद
 
-[日本語](#japanese) | [Deutsch](#deutsch) | [Français](#francais) | [Español](#espanol)
+[日本語](#japanese) | [Deutsch](#deutsch) | [Français](#francais) | [Español](#espanol) | [हिन्दी](#hindi)
 
 ---
 
@@ -53,6 +53,14 @@ Dans les contextes médicaux (ex: résultats de laboratoire, comptes rendus clin
 **RapidOCR-PreOCR** es una herramienta de preprocesamiento de imágenes optimizada específicamente para **informes médicos escaneados**. Resuelve problemas críticos como el salto de líneas y el reconocimiento de líneas fragmentadas en RapidOCR, mejorando significativamente la continuidad del texto y la integridad de los datos.
 
 En entornos médicos (ej. resultados de laboratorio, resúmenes clínicos), el OCR suele fallar debido a fuentes delgadas, bajo contraste o calidad de escaneo desigual. Al integrar **CLAHE** y una reducción de ruido optimizada, esta herramienta fortalece las características estructurales del texto, garantizando una extracción fiel de información médica vital.
+
+---
+
+<a name="hindi"></a>
+## हिन्दी (मशीनी अनुवाद)
+**RapidOCR-PreOCR** एक छवि पूर्व-प्रसंस्करण (image preprocessing) उपकरण है जिसे विशेष रूप से **स्कैन की गई मेडिकल रिपोर्ट** के लिए अनुकूलित किया गया है। यह RapidOCR में लाइनों के छूटने और टूटे हुए अक्षरों की पहचान जैसी महत्वपूर्ण समस्याओं को हल करता है, जिससे टेक्स्ट की निरंतरता और डेटा की सटीकता में काफी सुधार होता है।
+
+चिकित्सा परिदृश्यों (जैसे लैब परिणाम, नैदानिक सारांश) में, पतले फोंट, कम कंट्रास्ट या खराब स्कैनिंग गुणवत्ता के कारण OCR अक्सर विफल हो जाता है। **CLAHE** और बेहतर डेंसिंग (denoising) को एकीकृत करके, यह उपकरण टेक्स्ट की संरचनात्मक विशेषताओं को मजबूत करता है, जिससे महत्वपूर्ण चिकित्सा जानकारी का सटीक निष्कर्षण सुनिश्चित होता है।
 
 ---
 ## 🛠️ Requirements
