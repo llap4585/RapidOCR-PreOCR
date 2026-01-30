@@ -12,3 +12,13 @@ If you use this project in your work, please cite the original RapidOCR toolbox:
     howpublished = {\url{https://github.com/RapidAI/RapidOCR}},
     year={2021}
 }
+
+If you use this project, please cite it as:
+
+```bibtex
+@misc{llap4585,
+    title={RapidOCR-PreOCR: Preprocessing tool for improved RapidOCR text continuity},
+    author={llap4585},
+    howpublished = {\url{https://github.com/llap4585/RapidOCR-PreOCR}},
+    year={2026}
+}
