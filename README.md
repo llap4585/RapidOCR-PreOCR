@@ -112,6 +112,7 @@ Devido a questões de direitos autorais e privacidade envolvendo os documentos c
 <a name="Demo"></a>
 ## 📡 Demo
 **Due to copyright and privacy constraints associated with real clinical documents and academic literature used in testing, sample images are not directly displayed in this project.**
+
 **由于测试所使用的真实临床文档与学术文献涉及版权与隐私问题，本项目未直接展示样例图像。**
 
 ---
