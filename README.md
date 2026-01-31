@@ -6,6 +6,17 @@
 [⭐️English](#english) | [⭐️中文](#chinese) 
 
 [日本語](#japanese) | [Deutsch](#deutsch) | [Français](#francais) | [Español](#espanol) | [हिन्दी](#hindi) | [한국어](#korean) | [Português](#portuguese)
+---
+
+[Demo](#Demo) 
+
+[Privacy](#Privacy)
+
+[Requirements](#Requirements)
+
+[References](#References)
+
+
 
 ---
 
@@ -97,7 +108,13 @@ Ao lidar com documentos digitalizados como resultados de exames médicos ou resu
 Devido a questões de direitos autorais e privacidade envolvendo os documentos clínicos reais e literatura acadêmica utilizados nos testes, este projeto não exibe imagens de exemplo diretamente.
 
 ---
+<a name="Demo"></a>
+## 📡 Demo
+**Due to copyright and privacy constraints associated with real clinical documents and academic literature used in testing, sample images are not directly displayed in this project.**
+**由于测试所使用的真实临床文档与学术文献涉及版权与隐私问题，本项目未直接展示样例图像。**
 
+---
+<a name="Privacy"></a>
 ## 🛡️ Privacy & Security
 
 **Local Processing Only:** This tool performs all image enhancement operations locally on your machine. No medical reports, patient data, or sensitive information are uploaded to any external servers or cloud services. Your data remains under your control at all times.
@@ -109,7 +126,7 @@ Devido a questões de direitos autorais e privacidade envolvendo os documentos c
 **第三方库声明：** 本工具运行所依赖的所有第三方库均由用户环境提供，这些第三方库及其相关组件不在本项目的管理与控制范围内。
 
 ---
-
+<a name="Requirements"></a>
 ## 🛠️ Requirements
 
 ```text
@@ -117,7 +134,7 @@ opencv-python
 rapidocr_onnxruntime
 ```
 ---
-
+<a name="References"></a>
 ## 💪References / Citation
 ```markdown
 This project builds upon the RapidOCR toolbox. If you use RapidOCR, please cite:
