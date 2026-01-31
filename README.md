@@ -3,7 +3,7 @@
 
 ![Views](https://komarev.com/ghpvc/?username=llap4585&repo=RapidOCR-PreOCR&label=Project%20Views&color=blue&style=flat-square)
 
-[English](#english) | [中文](#chinese) 
+[⭐️English](#english) | [⭐️中文](#chinese) 
 
 機械翻訳 | Maschinelle Übersetzung | Traduction automatique | Traducción Automática | मशीनी अनुवाद | 기계 번역
 
@@ -12,7 +12,7 @@
 ---
 
 <a name="english"></a>
-## English
+## ⭐️English
 **RapidOCR-PreOCR** is an image preprocessing tool specifically optimized for **scanned medical reports**. It addresses critical issues such as line-skipping and broken-line recognition in RapidOCR, significantly enhancing text continuity and data integrity.
 
 In medical scenarios (e.g., lab results, clinical summaries), OCR often fails due to thin fonts, low contrast, or uneven scanning quality. By integrating **CLAHE** (Contrast Limited Adaptive Histogram Equalization) and fine-tuned denoising, this tool strengthens the structural features of text. This ensures that RapidOCR can reliably extract every line of vital medical information where high precision is non-negotiable.
@@ -22,7 +22,7 @@ Due to copyright and privacy constraints associated with real clinical documents
 ---
 
 <a name="chinese"></a>
-## 中文
+## ⭐️中文
 **RapidOCR-PreOCR** 是一款专为优化 **医学报告扫描件** 识别效果而设计的图像预处理工具。它主要解决在特定场景下出现的漏行、断行等问题，显著提升文本识别的连续性与完整性。
 
 在处理医疗化验单、出院小结等扫描文档时，由于字体较细、对比度较低或光线不均，常规 OCR 往往会丢失关键行。本项目通过 **CLAHE**（限制对比度自适应直方图均衡化）与优化去噪算法，强化文字结构特征，确保 RapidOCR 能够稳健地捕获每一行医疗关键信息，极大地提高了数据提取的可靠性。
