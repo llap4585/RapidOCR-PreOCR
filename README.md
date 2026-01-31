@@ -5,9 +5,7 @@
 
 [⭐️English](#english) | [⭐️中文](#chinese) 
 
-機械翻訳 | Maschinelle Übersetzung | Traduction automatique | Traducción Automática | मशीनी अनुवाद | 기계 번역
-
-[日本語](#japanese) | [Deutsch](#deutsch) | [Français](#francais) | [Español](#espanol) | [हिन्दी](#hindi) | [한국어](#korean)
+[日本語](#japanese) | [Deutsch](#deutsch) | [Français](#francais) | [Español](#espanol) | [हिन्दी](#hindi) | [한국어](#korean) | [Português](#portuguese)
 
 ---
 
@@ -88,6 +86,15 @@ Debido a las restricciones de derechos de autor y privacidad asociadas con los d
 의료 검사 결과지, 퇴원 요약서와 같은 스캔 문서를 처리할 때는 글꼴이 가늘거나 대비가 낮고 조명이 고르지 않은 경우가 많아, 일반적인 OCR로는 핵심 행 정보가 누락되는 문제가 발생합니다. 본 프로젝트는 **CLAHE**(대비 제한 적응형 히스토그램 균등화)와 최적화된 노이즈 제거 알고리즘을 통해 문자 구조적 특징을 강화함으로써, RapidOCR이 의료 문서의 각 핵심 행 정보를 안정적으로 포착할 수 있도록 지원하며 데이터 추출의 신뢰성을 크게 향상시킵니다.
 
 테스트에 사용된 실제 임상 문서 및 학술 자료는 저작권과 개인정보 보호 이슈가 있어, 본 프로젝트에서는 예시 이미지를 직접 공개하지 않았습니다.
+
+---
+<a name="portuguese"></a>
+## Português (Tradução automática)
+**RapidOCR-PreOCR** é uma ferramenta de pré-processamento de imagens projetada especificamente para otimizar o reconhecimento de **documentos médicos digitalizados**. Seu principal objetivo é resolver problemas como linhas faltantes ou interrompidas em cenários específicos, melhorando significativamente a continuidade e a integridade do reconhecimento de texto.
+
+Ao lidar com documentos digitalizados como resultados de exames médicos ou resumos de alta hospitalar, fontes finas, baixo contraste ou iluminação irregular podem fazer com que OCR convencional perca linhas importantes. Este projeto utiliza **CLAHE** (Equalização de Histograma Adaptativa com Contraste Limitado) e algoritmos de redução de ruído otimizados para reforçar as características estruturais do texto, garantindo que o RapidOCR capture de forma confiável cada linha de informação médica crucial, aumentando significativamente a confiabilidade da extração de dados.
+
+Devido a questões de direitos autorais e privacidade envolvendo os documentos clínicos reais e literatura acadêmica utilizados nos testes, este projeto não exibe imagens de exemplo diretamente.
 
 ---
 
