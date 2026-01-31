@@ -29,6 +29,8 @@ In medical scenarios (e.g., lab results, clinical summaries), OCR often fails du
 
 Due to copyright and privacy constraints associated with real clinical documents and academic literature used in testing, sample images are not directly displayed in this project.
 
+[Demo](#Demo) 
+
 ---
 
 <a name="chinese"></a>
@@ -38,6 +40,8 @@ Due to copyright and privacy constraints associated with real clinical documents
 在处理医疗化验单、出院小结等扫描文档时，由于字体较细、对比度较低或光线不均，常规 OCR 往往会丢失关键行。本项目通过 **CLAHE**（限制对比度自适应直方图均衡化）与优化去噪算法，强化文字结构特征，确保 RapidOCR 能够稳健地捕获每一行医疗关键信息，极大地提高了数据提取的可靠性。
 
 由于测试所使用的真实临床文档与学术文献涉及版权与隐私问题，本项目未直接展示样例图像。
+
+[Demo](#Demo) 
 
 ---
 
@@ -49,6 +53,8 @@ Due to copyright and privacy constraints associated with real clinical documents
 
 テストに使用した実際の臨床文書および学術文献は、著作権およびプライバシーの問題を含むため、本プロジェクトではサンプル画像を直接掲載していません。
 
+[Demo](#Demo) 
+
 ---
 
 <a name="deutsch"></a>
@@ -58,6 +64,8 @@ Due to copyright and privacy constraints associated with real clinical documents
 In medizinischen Szenarien (z. B. Laborergebnisse, klinische Zusammenfassungen) scheitert OCR oft an dünnen Schriftarten, geringem Kontrast oder ungleichmäßiger Scanqualität. Durch die Integration von **CLAHE** und fein abgestimmter Rauschunterdrückung stärkt dieses Tool die strukturellen Merkmale von Texten und gewährleistet eine präzise Extraktion wichtiger medizinischer Informationen.
 
 Aufgrund von urheberrechtlichen und datenschutzrechtlichen Einschränkungen bei den für Tests verwendeten realen klinischen Dokumenten und wissenschaftlichen Publikationen werden in diesem Projekt keine Beispielbilder direkt angezeigt.
+
+[Demo](#Demo) 
 
 ---
 
@@ -69,6 +77,8 @@ Dans les contextes médicaux (ex: résultats de laboratoire, comptes rendus clin
 
 En raison des contraintes liées aux droits d’auteur et à la confidentialité des documents cliniques réels et des publications académiques utilisés lors des tests, les images d’exemple ne sont pas présentées directement dans ce projet.
 
+[Demo](#Demo) 
+
 ---
 
 <a name="espanol"></a>
@@ -78,6 +88,8 @@ En raison des contraintes liées aux droits d’auteur et à la confidentialité
 En entornos médicos (ej. resultados de laboratorio, resúmenes clínicos), el OCR suele fallar debido a fuentes delgadas, bajo contraste o calidad de escaneo desigual. Al integrar **CLAHE** y una reducción de ruido optimizada, esta herramienta fortalece las características estructurales del texto, garantizando una extracción fiel de información médica vital.
 
 Debido a las restricciones de derechos de autor y privacidad asociadas con los documentos clínicos reales y la literatura académica utilizados en las pruebas, este proyecto no muestra directamente imágenes de ejemplo.
+
+[Demo](#Demo) 
 
 ---
 
@@ -89,6 +101,8 @@ Debido a las restricciones de derechos de autor y privacidad asociadas con los d
 
 परीक्षण में उपयोग किए गए वास्तविक नैदानिक दस्तावेज़ों और शैक्षणिक साहित्य में कॉपीराइट और गोपनीयता से संबंधित प्रतिबंध शामिल हैं, इसलिए इस परियोजना में नमूना छवियाँ सीधे प्रदर्शित नहीं की गई हैं।
 
+[Demo](#Demo) 
+
 ---
 
 <a name="korean"></a>
@@ -99,6 +113,8 @@ Debido a las restricciones de derechos de autor y privacidad asociadas con los d
 
 테스트에 사용된 실제 임상 문서 및 학술 자료는 저작권과 개인정보 보호 이슈가 있어, 본 프로젝트에서는 예시 이미지를 직접 공개하지 않았습니다.
 
+[Demo](#Demo) 
+
 ---
 <a name="portuguese"></a>
 ## Português (Tradução automática)
@@ -107,6 +123,8 @@ Debido a las restricciones de derechos de autor y privacidad asociadas con los d
 Ao lidar com documentos digitalizados como resultados de exames médicos ou resumos de alta hospitalar, fontes finas, baixo contraste ou iluminação irregular podem fazer com que OCR convencional perca linhas importantes. Este projeto utiliza **CLAHE** (Equalização de Histograma Adaptativa com Contraste Limitado) e algoritmos de redução de ruído otimizados para reforçar as características estruturais do texto, garantindo que o RapidOCR capture de forma confiável cada linha de informação médica crucial, aumentando significativamente a confiabilidade da extração de dados.
 
 Devido a questões de direitos autorais e privacidade envolvendo os documentos clínicos reais e literatura acadêmica utilizados nos testes, este projeto não exibe imagens de exemplo diretamente.
+
+[Demo](#Demo) 
 
 ---
 <a name="Demo"></a>
