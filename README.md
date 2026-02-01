@@ -158,6 +158,9 @@ Devido a questões de direitos autorais e privacidade envolvendo os documentos c
 opencv-python
 rapidocr_onnxruntime
 ```
+
+[Introduction](#Introduction)
+
 ---
 <a name="References"></a>
 ## 💪References / Citation
