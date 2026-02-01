@@ -4,7 +4,7 @@
 ![Views](https://komarev.com/ghpvc/?username=llap4585&repo=RapidOCR-PreOCR&label=Project%20Views&color=blue&style=flat-square)
 
 <a name="Introduction"></a>
-Introduction
+## Introduction
 
 [⭐️English](#english) | [⭐️中文](#chinese) 
 
