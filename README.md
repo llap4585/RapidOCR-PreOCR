@@ -3,6 +3,9 @@
 
 ![Views](https://komarev.com/ghpvc/?username=llap4585&repo=RapidOCR-PreOCR&label=Project%20Views&color=blue&style=flat-square)
 
+<a name="Introduction"></a>
+Introduction
+
 [⭐️English](#english) | [⭐️中文](#chinese) 
 
 [日本語](#japanese) | [Deutsch](#deutsch) | [Français](#francais) | [Español](#espanol) | [हिन्दी](#hindi) | [한국어](#korean) | [Português](#portuguese)
@@ -16,8 +19,6 @@
 [Requirements](#Requirements)
 
 [References](#References)
-
-
 
 ---
 
@@ -133,6 +134,8 @@ Devido a questões de direitos autorais e privacidade envolvendo os documentos c
 
 **由于测试所使用的真实临床文档与学术文献涉及版权与隐私问题，本项目未直接展示样例图像。**
 
+[Introduction](#Introduction)
+
 ---
 <a name="Privacy"></a>
 ## 🛡️ Privacy & Security
@@ -144,6 +147,8 @@ Devido a questões de direitos autorais e privacidade envolvendo os documentos c
 **仅限本地处理：** 本工具的所有图像增强操作均在您的本地计算机上执行。不会将任何医疗报告、患者数据或敏感信息上传到任何外部服务器或云服务。您的数据始终由您掌控。
 
 **第三方库声明：** 本工具运行所依赖的所有第三方库均由用户环境提供，这些第三方库及其相关组件不在本项目的管理与控制范围内。
+
+[Introduction](#Introduction)
 
 ---
 <a name="Requirements"></a>
@@ -175,6 +180,8 @@ If you use this project, please cite it as:
     year={2026}
 }
 ```
+[Introduction](#Introduction)
+
 ---
 
 > **Disclaimer:** The non-English and non-Chinese versions of this documentation are provided for convenience only and were generated using machine translation. In case of any discrepancy, the Chinese version shall prevail.
